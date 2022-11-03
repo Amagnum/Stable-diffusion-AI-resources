@@ -8,5 +8,6 @@ Stable-diffusion-AI-resources
  - Colab: https://colab.research.google.com/github/visoutre/ai-notebooks/blob/main/Stable_Diffusion_Batch.ipynb
 
 2. Real-ESRGAN Inference + Gigapixel (Paid)
+ - GigaPixel: https://www.topazlabs.com/gigapixel-ai
  - https://www.youtube.com/watch?v=xas65oOfDtM
  - https://colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo?usp=sharing
