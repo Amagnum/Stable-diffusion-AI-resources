@@ -10,6 +10,10 @@ Stable-diffusion-AI-resources
 ## Image To Image
 1. Colab: https://colab.research.google.com/github/patil-suraj/Notebooks/blob/master/image_2_image_using_diffusers.ipynb#scrollTo=Tm_SR0gT0s2L
 
+## Image to 3d Model
+1. Colab: https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt#scrollTo=5995t2PnQTmG
+ - Limitation: only human figures, with skin colors (works best)
+
 ## AI Upscaler
 1. Stable Diffusion Batch: 
  - https://www.youtube.com/watch?v=negxfEteqDc
