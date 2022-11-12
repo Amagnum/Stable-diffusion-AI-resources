@@ -29,3 +29,6 @@ Stable-diffusion-AI-resources
 
 ## Plot generator
 1. https://www.plot-generator.org.uk/
+
+## Mesh Room
+1. 3d Scanning Application over colab. https://github.com/abnlsn/colab-notebooks
