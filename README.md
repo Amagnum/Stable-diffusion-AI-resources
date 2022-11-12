@@ -13,6 +13,7 @@ Stable-diffusion-AI-resources
 ## Image to 3d Model
 1. Colab: https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt#scrollTo=5995t2PnQTmG
  - Limitation: only human figures, with skin colors (works best)
+2. Icon: https://huggingface.co/spaces/Yuliang/ICON
 
 ## AI Upscaler
 1. Stable Diffusion Batch: 
