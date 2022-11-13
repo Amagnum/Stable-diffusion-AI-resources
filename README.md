@@ -2,7 +2,8 @@
 Stable-diffusion-AI-resources
 
 ## Advanced controls SD
-1. Colab: https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb
+1. Invoke AI: https://github.com/invoke-ai/InvokeAI
+2. Colab: https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb
 
 ## Depth Estimation
 1. Colab: https://colab.research.google.com/github/compphoto/BoostingMonocularDepth/blob/main/Boostmonoculardepth.ipynb
