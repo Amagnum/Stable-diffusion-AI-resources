@@ -33,3 +33,6 @@ Stable-diffusion-AI-resources
 
 ## Mesh Room
 1. 3d Scanning Application over colab. https://github.com/abnlsn/colab-notebooks
+
+## Artistic references
+1. https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies/
