@@ -1,6 +1,9 @@
 # Stable-diffusion-AI-resources
 Stable-diffusion-AI-resources
 
+## Train your custom style
+1. Dreambooth: https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_dreambooth_training.ipynb
+
 ## Advanced controls SD
 1. Invoke AI: https://github.com/invoke-ai/InvokeAI
 2. Colab: https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb
