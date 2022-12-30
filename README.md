@@ -19,6 +19,7 @@ Stable-diffusion-AI-resources
  - Limitation: only human figures, with skin colors (works best)
 2. Icon: https://huggingface.co/spaces/Yuliang/ICON
 3. https://github.com/AaronJackson/vrn-docker/
+4. https://huggingface.co/spaces/mattiagatti/image2mesh
 
 ## AI Upscaler
 1. Stable Diffusion Batch: 
