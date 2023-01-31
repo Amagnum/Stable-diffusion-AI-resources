@@ -1,6 +1,9 @@
 # Stable-diffusion-AI-resources
 Stable-diffusion-AI-resources
 
+## Text to Motion
+1. https://huggingface.co/spaces/vumichien/generate_human_motion
+
 ## Train your custom style
 1. Dreambooth: https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_dreambooth_training.ipynb
 
